@@ -129,7 +129,6 @@ python phase4_risk_scoring.py
 ├── phase3_plots/
 ├── phase4_plots/
 ├── requirements.txt
-├── main.py
 └── README.md
 ```
 
