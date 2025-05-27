@@ -1,0 +1,30 @@
+# Core data manipulation and analysis
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Machine learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+imbalanced-learn>=0.8.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Signal processing
+scipy>=1.7.0
+
+# Model persistence
+joblib>=1.1.0
+
+# System operations
+os-sys>=2.1.4
+
+# Progress tracking and utilities
+tqdm>=4.62.0
+
+# Optional: For better performance with large datasets
+numba>=0.56.0
+
+# Optional: For enhanced data analysis
+statsmodels>=0.13.0
