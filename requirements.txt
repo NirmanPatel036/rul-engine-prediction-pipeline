@@ -17,9 +17,6 @@ scipy>=1.7.0
 # Model persistence
 joblib>=1.1.0
 
-# System operations
-os-sys>=2.1.4
-
 # Progress tracking and utilities
 tqdm>=4.62.0
 
